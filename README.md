@@ -72,7 +72,7 @@ PROJECT STRUCTURE:
 
 aave-credit-score/
 ├── data/
-│ └── user_transactions.json   # Raw transaction data (https://drive.google.com/file/d/1ISFbAXxadMrt7Zl96rmzzZmEKZnyW7FS/view?usp=sharing) 
+│ └── user_transactions.json   # Raw transaction data  
 ├── wallet_credit_score.ipynb  # Jupyter notebook with full code
 ├── wallet_scores.csv          # Rule-based scores
 ├── wallet_scores_ml.csv       # ML-based predicted scores
